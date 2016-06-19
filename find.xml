@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'import-api'" />
     <option name="defaultScopeName" value="Module 'import-api'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'import-api'" />
     <recentFileMasks>
       <mask>*.properties</mask>
