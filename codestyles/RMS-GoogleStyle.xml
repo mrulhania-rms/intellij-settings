@@ -288,6 +288,10 @@
     <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
   </ScalaCodeStyleSettings>
   <XML>
+    <option name="XML_KEEP_LINE_BREAKS" value="false" />
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="XML_WHITE_SPACE_AROUND_CDATA" value="1" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
@@ -336,7 +340,7 @@
   <codeStyleSettings language="JAVA">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
@@ -354,6 +358,7 @@
     <option name="BINARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ASSIGNMENT_WRAP" value="1" />
