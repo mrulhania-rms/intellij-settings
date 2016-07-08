@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="FindBugs.PreviewSelectBugInstance">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+</keymap>
