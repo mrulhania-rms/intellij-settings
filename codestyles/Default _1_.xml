@@ -1,12 +1,16 @@
 <code_scheme name="Default (1)">
   <ScalaCodeStyleSettings>
     <option name="DO_NOT_ALIGN_BLOCK_EXPR_PARAMS" value="true" />
+    <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
+    <option name="SD_BLANK_LINE_AFTER_RETURN_COMMENTS" value="true" />
+    <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
   </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="Scala">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
@@ -15,7 +19,7 @@
     <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="0" />
