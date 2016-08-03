@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Instructions" type="PLAIN_TEXT" />
       <mapping pattern="Data Model" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByIdOutput" type="PLAIN_TEXT" />
