@@ -381,12 +381,12 @@
           <order>KEEP</order>
         </group>
         <group>
-          <type>OVERRIDDEN_METHODS</type>
-          <order>BY_NAME</order>
-        </group>
-        <group>
           <type>DEPENDENT_METHODS</type>
           <order>DEPTH_FIRST</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>BY_NAME</order>
         </group>
       </groups>
       <rules>
@@ -396,7 +396,7 @@
               <AND>
                 <FIELD>true</FIELD>
                 <FINAL>true</FINAL>
-                <PUBLIC>true</PUBLIC>
+                <PRIVATE>true</PRIVATE>
                 <STATIC>true</STATIC>
               </AND>
             </match>
@@ -435,7 +435,7 @@
               <AND>
                 <FIELD>true</FIELD>
                 <FINAL>true</FINAL>
-                <PRIVATE>true</PRIVATE>
+                <PUBLIC>true</PUBLIC>
                 <STATIC>true</STATIC>
               </AND>
             </match>
@@ -654,17 +654,6 @@
           <rule>
             <match>
               <AND>
-                <METHOD>true</METHOD>
-                <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
-              </AND>
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
                 <FINAL>true</FINAL>
                 <METHOD>true</METHOD>
                 <PROTECTED>true</PROTECTED>
@@ -679,6 +668,17 @@
               <AND>
                 <METHOD>true</METHOD>
                 <PROTECTED>true</PROTECTED>
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
               </AND>
             </match>
             <order>BY_NAME</order>
