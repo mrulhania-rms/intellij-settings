@@ -377,16 +377,16 @@
     <arrangement>
       <groups>
         <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>BY_NAME</order>
+        </group>
+        <group>
           <type>GETTERS_AND_SETTERS</type>
           <order>KEEP</order>
         </group>
         <group>
           <type>DEPENDENT_METHODS</type>
-          <order>DEPTH_FIRST</order>
-        </group>
-        <group>
-          <type>OVERRIDDEN_METHODS</type>
-          <order>BY_NAME</order>
+          <order>BREADTH_FIRST</order>
         </group>
       </groups>
       <rules>
@@ -494,16 +494,6 @@
           <rule>
             <match>
               <AND>
-                <INITIALIZER_BLOCK>true</INITIALIZER_BLOCK>
-                <STATIC>true</STATIC>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
                 <FIELD>true</FIELD>
                 <FINAL>true</FINAL>
                 <PUBLIC>true</PUBLIC>
@@ -603,6 +593,16 @@
         <section>
           <rule>
             <match>
+              <AND>
+                <INITIALIZER_BLOCK>true</INITIALIZER_BLOCK>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
               <INITIALIZER_BLOCK>true</INITIALIZER_BLOCK>
             </match>
           </rule>
@@ -643,9 +643,8 @@
           <rule>
             <match>
               <AND>
-                <FINAL>true</FINAL>
                 <METHOD>true</METHOD>
-                <PROTECTED>true</PROTECTED>
+                <PUBLIC>true</PUBLIC>
               </AND>
             </match>
             <order>BY_NAME</order>
@@ -655,8 +654,9 @@
           <rule>
             <match>
               <AND>
+                <FINAL>true</FINAL>
                 <METHOD>true</METHOD>
-                <PUBLIC>true</PUBLIC>
+                <PROTECTED>true</PROTECTED>
               </AND>
             </match>
             <order>BY_NAME</order>
