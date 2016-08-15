@@ -643,8 +643,9 @@
           <rule>
             <match>
               <AND>
+                <FINAL>true</FINAL>
                 <METHOD>true</METHOD>
-                <PUBLIC>true</PUBLIC>
+                <PROTECTED>true</PROTECTED>
               </AND>
             </match>
             <order>BY_NAME</order>
@@ -654,9 +655,8 @@
           <rule>
             <match>
               <AND>
-                <FINAL>true</FINAL>
                 <METHOD>true</METHOD>
-                <PROTECTED>true</PROTECTED>
+                <PUBLIC>true</PUBLIC>
               </AND>
             </match>
             <order>BY_NAME</order>
