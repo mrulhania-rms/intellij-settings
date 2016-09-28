@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Scala/Argument Conversion/Convert to argument in parentheses" />
+    <ignoreAction name="Scala/Argument Conversion/Convert to block expression" />
+    <ignoreAction name="Scala/Argument Conversion/Use named arguments" />
+  </component>
+</application>
