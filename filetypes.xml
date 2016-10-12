@@ -7,6 +7,7 @@
       <mapping pattern="Data Model" type="PLAIN_TEXT" />
       <mapping pattern="Contract" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="GetUserByIdOutput" type="PLAIN_TEXT" />
       <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
       <mapping pattern="resourceUtilTest" type="PLAIN_TEXT" />
