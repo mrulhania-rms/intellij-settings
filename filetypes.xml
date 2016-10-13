@@ -11,6 +11,7 @@
       <mapping pattern="GetUserByIdOutput" type="PLAIN_TEXT" />
       <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
       <mapping pattern="resourceUtilTest" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="CreateOutput" type="PLAIN_TEXT" />
       <mapping pattern="secondarymodifiers" type="PLAIN_TEXT" />
       <mapping pattern="CreateUserValidationInvalidResponse" type="PLAIN_TEXT" />
