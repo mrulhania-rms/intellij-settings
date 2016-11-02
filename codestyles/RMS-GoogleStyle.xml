@@ -280,7 +280,6 @@
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
-    <option name="addImportMostCloseToReference" value="true" />
     <option name="importShortestPathForAmbiguousReferences" value="false" />
     <option name="ALIGN_IF_ELSE" value="true" />
     <option name="KEEP_XML_FORMATTING" value="true" />
@@ -860,6 +859,7 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="0" />
     </indentOptions>
     <arrangement>
       <groups>
