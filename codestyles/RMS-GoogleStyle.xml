@@ -860,12 +860,17 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="0" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
     <arrangement>
       <groups>
         <group>
           <type>DEPENDENT_METHODS</type>
           <order>DEPTH_FIRST</order>
+        </group>
+        <group>
+          <type>SCALA_KEEP_SCALA_GETTERS_SETTERS_TOGETHER</type>
+          <order>KEEP</order>
         </group>
       </groups>
     </arrangement>
