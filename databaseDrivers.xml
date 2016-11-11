@@ -101,6 +101,14 @@
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
     </driver>
+    <driver id="fde1cf28-e206-4990-91eb-e1d97779d3e5" name="Hive (Kudu)" driver-class="org.apache.hive.jdbc.HiveDriver">
+      <url-template name="Server" template="jdbc:hive2://[{host::localhost}][:{port::10000}]/[{database::store}]" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hive-jdbc-2.1.0.jar</url>
+      </library>
+    </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
       <option name="auto-sync" value="true" />
       <library>
