@@ -108,6 +108,9 @@
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hive-jdbc-2.1.0.jar</url>
       </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hadoop-common-2.7.3.jar</url>
+      </library>
     </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
       <option name="auto-sync" value="true" />
