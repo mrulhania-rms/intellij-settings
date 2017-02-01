@@ -3,6 +3,7 @@
     <option name="customScope" value="Module 'import-loss'" />
     <option name="defaultScopeName" value="Module 'import-loss'" />
     <option name="SEARCH_SCOPE" value="Module 'import-loss'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,8 +13,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>pom.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
