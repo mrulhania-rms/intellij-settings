@@ -5,8 +5,9 @@
     <option name="COMPILE_SERVER_PORT" value="41693" />
     <option name="COMPILE_SERVER_ID" value="302ab109-8677-4b65-ad17-6e58aa32881f" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
-    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="8192" />
-    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss2048m" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2018" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss1024m" />
     <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
+    <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
   </component>
 </application>
