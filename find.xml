@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '... - [rms-one-import]'" />
-    <option name="defaultScopeName" value="Directory '... - [rms-one-import]'" />
+    <option name="customScope" value="Project 'rms-one-dataservices'" />
+    <option name="defaultScopeName" value="Project 'rms-one-dataservices'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [rms-one-import]'" />
+    <option name="SEARCH_SCOPE" value="Project 'rms-one-dataservices'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
