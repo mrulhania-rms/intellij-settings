@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'import-loss'" />
-    <option name="defaultScopeName" value="Module 'import-loss'" />
-    <option name="SEARCH_SCOPE" value="Module 'import-loss'" />
+    <option name="customScope" value="Directory '... - [rms-one-import]'" />
+    <option name="defaultScopeName" value="Directory '... - [rms-one-import]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... - [rms-one-import]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
