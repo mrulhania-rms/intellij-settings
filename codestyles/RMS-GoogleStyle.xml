@@ -284,7 +284,6 @@
     <option name="ALIGN_IF_ELSE" value="true" />
     <option name="DO_NOT_ALIGN_BLOCK_EXPR_PARAMS" value="true" />
     <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
-    <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
     <option name="KEEP_XML_FORMATTING" value="true" />
     <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
     <option name="SD_BLANK_LINE_AFTER_RETURN_COMMENTS" value="true" />
