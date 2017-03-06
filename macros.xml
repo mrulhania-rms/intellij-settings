@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="Find" />
+      <typing text-keycode="80:0;82:0;79:0;80:0;69:0;82:0;84:0;89:0;72:1;69:0;76:0;80:0;69:0;82:0">propertyHelper</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="shift F6" />
+      <shortuct text="ESCAPE" />
+      <action id="EditorLeft" />
+      <action id="EditorRight" />
+      <action id="RenameElement" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorChooseLookupItem" />
+    </macro>
+  </component>
+</application>
