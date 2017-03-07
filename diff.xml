@@ -70,7 +70,9 @@
         <PlaceSettings />
       </entry>
       <entry key="Merge">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SHOW_INDENT_LINES" value="true" />
+        </PlaceSettings>
       </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings />
