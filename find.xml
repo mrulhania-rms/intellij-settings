@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'rms-one-dataservices'" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.java, *.scala" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -17,6 +17,7 @@
       <mask>pom.xml</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
+      <mask>*.java, *.scala</mask>
     </recentFileMasks>
   </component>
 </application>
