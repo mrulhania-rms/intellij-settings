@@ -6,6 +6,7 @@
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="secondarymodifiers" type="PLAIN_TEXT" />
+      <mapping pattern="api-cron" type="PLAIN_TEXT" />
       <mapping pattern="CreateOutput" type="PLAIN_TEXT" />
       <mapping pattern="Contract" type="PLAIN_TEXT" />
       <mapping pattern="Instructions" type="PLAIN_TEXT" />
