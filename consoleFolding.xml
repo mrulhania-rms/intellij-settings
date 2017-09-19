@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="[Executor task launch worker for task 817] INFO org.apache.spark.executor.Executor - Running task 0.0 in stage 811.0 (TID 817)" />
+      </list>
+    </option>
+  </component>
+</application>
