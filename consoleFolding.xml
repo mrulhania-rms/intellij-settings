@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="[Executor task launch worker for task 8] INFO org.apache.spark.storage.ShuffleBlockFetcherIterator - Getting 1 non-empty blocks out of 1 blocks" />
+        <option value="[Executor task launch worker for task" />
+      </list>
+    </option>
+  </component>
+</application>
