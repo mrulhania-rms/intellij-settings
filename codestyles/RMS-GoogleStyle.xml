@@ -274,6 +274,10 @@
   <option name="DOWHILE_BRACE_FORCE" value="3" />
   <option name="WHILE_BRACE_FORCE" value="3" />
   <option name="FOR_BRACE_FORCE" value="3" />
+  <CsvCodeStyleSettings>
+    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+  </CsvCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
