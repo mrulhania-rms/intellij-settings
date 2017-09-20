@@ -2,8 +2,7 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
-        <option value="[Executor task launch worker for task 8] INFO org.apache.spark.storage.ShuffleBlockFetcherIterator - Getting 1 non-empty blocks out of 1 blocks" />
-        <option value="[Executor task launch worker for task" />
+        <option value="[Executor task launch worker for task 817] INFO org.apache.spark.executor.Executor - Running task 0.0 in stage 811.0 (TID 817)" />
       </list>
     </option>
   </component>
