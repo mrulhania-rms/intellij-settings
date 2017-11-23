@@ -104,8 +104,10 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.44" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="bcdba5ed-bf54-4472-9b0e-c7af15dada34" name="Hive" dialect="GenericSQL" driver-class="org.apache.hive.jdbc.HiveDriver">
       <option name="auto-commit" value="true" />
