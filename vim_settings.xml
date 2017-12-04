@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/OneDrive/Documents/coursera/scala-specialisation/function-programming-scala-capstone/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1512428128413">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/coursera/scala-specialisation/function-programming-scala-capstone/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1512429467241">
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="53" column="50" />
+        <mark key="." line="53" column="50" />
+        <mark key="^" line="53" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1512424630358">
         <mark key="[" line="0" column="0" />
@@ -14,17 +15,21 @@
       <file name="/sbtShell" timestamp="1512428297977">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/iterators/BaseIterator.scala" timestamp="1512429753837" />
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZGZTY2hlbWEK</text>
+      </register>
+      <register name="-" type="4">
+        <text>]</text>
       </register>
     </registers>
     <search>
