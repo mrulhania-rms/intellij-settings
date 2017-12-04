@@ -3,12 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/OneDrive/Documents/coursera/scala-specialisation/function-programming-scala-capstone/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1512428128413">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1512424630358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1512428297977">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZGZTY2hlbWEK</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
