@@ -9,27 +9,41 @@
         <mark key="." line="53" column="50" />
         <mark key="^" line="53" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512424630358">
+      <file name="/Dummy.txt" timestamp="1512431376149">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/inserters/LossInserter.scala" timestamp="1512431486165" />
       <file name="/sbtShell" timestamp="1512428297977">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1512431634518">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/LossFileIterator.scala" timestamp="1512431670009" />
       <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/iterators/BaseIterator.scala" timestamp="1512429753837" />
+      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/test/scala/unit/com/rms/transform/loss/ImportPltTest.scala" timestamp="1512431720569">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="103" column="38" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJBZG1pbjIiIC0+ICJBZG1pbjIiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJBZG1pbjIiIC0+ICJBZG1pbjIiLAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZGZTY2hlbWEK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>all-segments.</text>
       </register>
     </registers>
     <search>
