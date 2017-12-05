@@ -2,14 +2,87 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/coursera/scala/capstone-observatory/observatory/src/test/scala/observatory/ExtractionTest.scala" timestamp="1512447482639">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+      </file>
+      <file name="/sbtShell" timestamp="1512446448409">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1512447316487">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/coursera/scala/capstone-observatory/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1512446337318">
+        <mark key="[" line="128" column="20" />
+        <mark key="]" line="128" column="33" />
+        <mark key="^" line="128" column="33" />
+        <mark key="." line="128" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/coursera/scala/capstone-observatory/observatory/src/main/scala/observatory/Main.scala" timestamp="1512446385134">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="6" column="105" filename="$USER_HOME$/Documents/Projects/coursera/scala/capstone-observatory/observatory/src/test/scala/observatory/ExtractionTest.scala" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdGVtcGVyYXR1cmVGaWx0ZXI6IFJvdyA9PiBCb29sZWFuID0gcm93ID0+IHJvdyhyb3cuZmllbGRJbmRleCgidGVtcGVyYXR1cmUiKSkuYXNJbnN0YW5jZU9mW09wdGlvbltEb3VibGVdXS5pc0RlZmluZWQK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>classOf[Extraction]</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIiRsb2NhdGlvbiA9PiAkdGVtcGVyYXR1cmUiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKChsb2NhdGlvbiwgdGVtcGVyYXR1cmUpIDwtIGF2Z3MpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYXZncyA9IEV4dHJhY3Rpb24ubG9jYXRpb25ZZWFybHlBdmVyYWdlUmVjb3JkcyhpdGVyKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIvVXNlcnMvdnBhbmRleS9PbmVEcml2ZS9Eb2N1bWVudHMvY291cnNlcmEvc2NhbGEtc3BlY2lhbGlzYXRpb24vZnVuY3Rpb24tcHJvZ3JhbW1pbmctc2NhbGEtY2Fwc3RvbmUvb2JzZXJ2YXRvcnkvc3JjL21haW4vcmVzb3VyY2VzLzE5NzUuY3N2IikK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIvVXNlcnMvdnBhbmRleS9PbmVEcml2ZS9Eb2N1bWVudHMvY291cnNlcmEvc2NhbGEtc3BlY2lhbGlzYXRpb24vZnVuY3Rpb24tcHJvZ3JhbW1pbmctc2NhbGEtY2Fwc3RvbmUvb2JzZXJ2YXRvcnkvc3JjL21haW4vcmVzb3VyY2VzL3N0YXRpb25zLmNzdiIsCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>classOf[Extraction]</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
