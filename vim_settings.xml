@@ -9,48 +9,82 @@
         <mark key="." line="53" column="50" />
         <mark key="^" line="53" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512431376149">
+      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/validators/PltRowValidator.scala" timestamp="1512433228224">
+        <mark key="'" line="42" column="34" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512434437140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/inserters/LossInserter.scala" timestamp="1512431486165" />
       <file name="/sbtShell" timestamp="1512428297977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1512431634518">
+      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/iterators/PltRowIterator.scala" timestamp="1512432097674" />
+      <file name="/Dummy.scala" timestamp="1512432001733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/LossFileIterator.scala" timestamp="1512431670009" />
       <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/iterators/BaseIterator.scala" timestamp="1512429753837" />
-      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/test/scala/unit/com/rms/transform/loss/ImportPltTest.scala" timestamp="1512431720569">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="103" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/test/scala/unit/com/rms/transform/loss/ImportPltTest.scala" timestamp="1512433987834">
+        <mark key="[" line="164" column="25" />
+        <mark key="]" line="161" column="32" />
+        <mark key="." line="161" column="32" />
+        <mark key="^" line="161" column="32" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="45" column="34" filename="$USER_HOME$/Documents/Projects/rms-one-import/import-loss/src/main/scala/com/rms/transform/loss/validators/PltRowValidator.scala" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJBZG1pbjIiIC0+ICJBZG1pbjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJBZG1pbjIiIC0+ICJBZG1pbjIiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoZ3VpZCA9PT0gInRlc3RHVUlEIiwgInJldHVybmVkIEdVSUQgbXVzdCBtYXRjaCB0aGUgbW9ja2VkIEdVSUQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGZTY2hlbWEK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoZ3VpZCAhPSBudWxsICYmICFndWlkLmlzRW1wdHksICJyZXR1cm5lZCBHVUlEIG11c3Qgbm90IGJlIG51bGwiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5vbmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmICgpKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNvbWUocyIkZmllbGQgJGRhdGEgbXVzdCBleGlzdCBpbiBkb21haW4gdGFibGUiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJBZG1pbjIiIC0+ICJBZG1pbjIiLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>all-segments.</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
