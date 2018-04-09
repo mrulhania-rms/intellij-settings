@@ -286,6 +286,7 @@
   <ScalaCodeStyleSettings>
     <option name="importShortestPathForAmbiguousReferences" value="false" />
     <option name="ALIGN_IF_ELSE" value="true" />
+    <option name="ALIGN_EXTENDS_WITH" value="1" />
     <option name="DO_NOT_ALIGN_BLOCK_EXPR_PARAMS" value="true" />
     <option name="INDENT_FIRST_PARAMETER_CLAUSE" value="true" />
     <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
@@ -861,12 +862,16 @@
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="5" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_LONG_LINES" value="true" />
+    <option name="FIELD_ANNOTATION_WRAP" value="1" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
